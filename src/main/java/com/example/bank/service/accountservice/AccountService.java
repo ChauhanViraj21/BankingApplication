@@ -1,9 +1,6 @@
 package com.example.bank.service.accountservice;
 
 import java.util.List;
-
-import org.springframework.context.annotation.Bean;
-
 import com.example.bank.accountDTO.Accountdto;
 
 public interface AccountService {
